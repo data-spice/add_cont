@@ -1,10 +1,16 @@
 # Contributions adder.
 
 This is supposed to add contributions to spice up your repo
-#### from
+## From this ----
+##              |
+##             \ /
+##              .
 <img width="1207" height="335" alt="Screenshot 2025-12-17 103246" src="https://github.com/user-attachments/assets/89212294-2c0c-4562-b97a-9e247f9ee287" />
 
- #### to
+ ## To this -----
+ ##             |
+ ##            \ /
+ ##             .
  <img width="1162" height="293" alt="Screenshot 2025-12-17 115349" src="https://github.com/user-attachments/assets/ee56963e-32f1-4098-910a-90b109a75a80" />
 
 
