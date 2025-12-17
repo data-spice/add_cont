@@ -1,6 +1,13 @@
 # Contributions adder.
 
 This is supposed to add contributions to spice up your repo
+#### from
+<img width="1207" height="335" alt="Screenshot 2025-12-17 103246" src="https://github.com/user-attachments/assets/89212294-2c0c-4562-b97a-9e247f9ee287" 
+
+ #### to
+ <img width="1162" height="293" alt="Screenshot 2025-12-17 115349" src="https://github.com/user-attachments/assets/ee56963e-32f1-4098-910a-90b109a75a80" />
+
+
 For terminal you can use **powershell**, **cmd**, **git bash** or your prefered terminal
 
 ---
@@ -59,12 +66,16 @@ cd private
 > [!CAUTION]
 > After running the python file add the number of contributions you want to add then continously press **enter** without typing anything in the proceeding fields.
 
+
+
 >[!TIP]
 > **If you find it hard to navigate back to the folder:**
 > - Use ```ls``` or ```dir``` command to list items in the folder
 > - Use ```cd folder_name``` command to change the folder. Replace **folder_name** with the folder you want to switch to.
 > - If you already know the full path to the folder use ```cd path_to_privatefolder``` to get to the folder. Replace **path_to_privatefolder** with the path.
-> Enter a logical number of commits in accordance to you repo to preserve authenticity.
+> Enter a logical number of commits in accordance to you repo to preserve authenticity.ie
+><img width="1148" height="256" alt="Screenshot 2025-12-17 115151" src="https://github.com/user-attachments/assets/1adaccad-1ca2-4c1a-b3a0-51d9b6405c4b" />
+
 
 #### Use the command below to run the file:
 
