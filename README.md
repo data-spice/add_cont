@@ -82,6 +82,7 @@ cd private
 ```
 python main.py
 ```
-
+## If you wanna undo the changes
+Just delete the private repo you created
 
 
