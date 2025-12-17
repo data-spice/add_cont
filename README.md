@@ -57,7 +57,7 @@ python --version
 >[!TIP]
 > **If you find it hard to navigate back to the folder:**
 > - Use ```ls``` or ```dir``` command to list items in the folder
-> - Use ```cd folder_name``` command to change the folde. Replace **folder_name** with the folder you want to switch to.
+> - Use ```cd folder_name``` command to change the folder. Replace **folder_name** with the folder you want to switch to.
 > - If you already know the full path to the folder use ```cd path_to_privatefolder``` to get to the folder. Replace **path_to_privatefolder** with the path.
 > Enter a logical number of commits in accordance to you repo to preserve authenticity.
 
