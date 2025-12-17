@@ -48,11 +48,17 @@ python --version
 
 
 
-### Step 6: Run the python file:
+### Step 6: Navigate back to the private folder in terminal and run the python file:
+
+
 > [!CAUTION]
 > After running the python file add the number of contributions you want to add then continously press **enter** without typing anything in the proceeding fields.
 
 >[!TIP]
+> **If you find it hard to navigate back to the folder:**
+> - Use ```ls``` or ```dir``` command to list items in the folder
+> - Use ```cd folder_name``` command to change the folde. Replace **folder_name** with the folder you want to switch to.
+> - If you already know the full path to the folder use ```cd path_to_privatefolder``` to get to the folder. Replace **path_to_privatefolder** with the path.
 > Enter a logical number of commits in accordance to you repo to preserve authenticity.
 
 #### Use the command below to run the file:
