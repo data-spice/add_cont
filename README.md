@@ -21,13 +21,16 @@ At the top of your repo  where you usually add files create a file named **data.
 ## Step 3: Clone your repo in your local machine:
  Copy the command below and **REPLACE YOUR_USERNAME WITH YOUR USERNAME in github**
  - This creates a folder called **private** in your machine.
+[!WARNING]
+>For this command to work you will **HAVE TO REPLACE THE 'YOUR_USERNAME'** part in the url above with your github user name ie data-spice (<--- my username ) after replacing the user name the url should now contain your user name ie **git clone https://github.com/data-spice/private.git**
+
 ```
 git clone https://github.com/YOUR_USERNAME/private.git
 ```
 
 
 
- ## Step 4: Download the main.py folder in this repo and move it into the private folder.
+## Step 4: Download the main.py folder in this repo and move it into the private folder.
 
 After this we will need to run the script and it must be in the folder.
 
