@@ -48,8 +48,13 @@ python --version
 
 
 
-### Step 6: Navigate back to the private folder in terminal and run the python file:
+### Step 6: Navigate back to the private folder in terminal 
 
+```
+cd private
+```
+
+### Step 7: Run the python file:
 
 > [!CAUTION]
 > After running the python file add the number of contributions you want to add then continously press **enter** without typing anything in the proceeding fields.
