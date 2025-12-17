@@ -13,8 +13,8 @@ Navigate to the repository section and add a private repo and name it private.
 >In short **MIND YOUR SECRECY**
 
 
-## Step 2: Create a file called data.txt in the repo:
-At the top of your repo  where you usually add files create a file called **data.txt**
+## Step 2: Add a file called data.txt in the repo:
+At the top of your repo  where you usually add files create a file named **data.txt** with nothing in it.
 
 
 
