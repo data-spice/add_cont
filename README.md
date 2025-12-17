@@ -22,13 +22,14 @@ At the top of your repo  where you usually add files create a file named **data.
  Copy the command below and **REPLACE YOUR_USERNAME WITH YOUR USERNAME in github**
  - This creates a folder called **private** in your machine.
 
+```
+git clone https://github.com/YOUR_USERNAME/private.git
+```
+
 
 >[!WARNING]
 >For this command to work you will **HAVE TO REPLACE THE 'YOUR_USERNAME'** part in the url above with your github user name ie data-spice (<--- my username ) after replacing the user name the url should now contain your user name ie **git clone https://github.com/data-spice/private.git**
 
-```
-git clone https://github.com/YOUR_USERNAME/private.git
-```
 
 
 
